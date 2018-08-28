@@ -1,0 +1,21 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <enabledExternalComponentSources>
+      <item value="Android SDK" />
+    </enabledExternalComponentSources>
+    <option name="externalUpdateChannels">
+      <map>
+        <entry key="Android SDK" value="Stable Channel" />
+      </map>
+    </option>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
+    <option name="LAST_BUILD_CHECKED" value="IU-183.1882" />
+    <option name="LAST_TIME_CHECKED" value="1535375362338" />
+    <pluginHosts>
+      <item value="https://buildserver.labs.intellij.net/guestAuth/repository/download/ijplatform_master_CIDR_CLion_Installers/.lastSuccessful/CL-plugins/plugins.xml" />
+    </pluginHosts>
+    <option name="UPDATE_CHANNEL_TYPE" value="eap" />
+  </component>
+</application>
