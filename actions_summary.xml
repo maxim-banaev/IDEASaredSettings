@@ -109,8 +109,8 @@
         <entry key="WelcomeScreen.Plugins">
           <value>
             <ActionSummary>
-              <option name="last" value="1581681471180" />
-              <option name="times" value="1" />
+              <option name="last" value="1581682114283" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -133,8 +133,8 @@
         <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$5">
           <value>
             <ActionSummary>
-              <option name="last" value="1581681472940" />
-              <option name="times" value="18" />
+              <option name="last" value="1581682112206" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
