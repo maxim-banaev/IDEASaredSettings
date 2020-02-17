@@ -7,6 +7,8 @@
         <developer id="979559" name="Aleksandr Gribovich" />
         <developer id="985613" name="Aleksandr Izmaylov" />
         <developer id="984615" name="Aleksandr Krasilnikov" />
+        <developer id="986644" name="Aleksandr Prokopyev" />
+        <developer id="985207" name="Aleksandr Rasnyuk" />
         <developer id="866273" name="Aleksandr Samofalov" />
         <developer id="984032" name="Aleksei Kniazev" />
         <developer id="978429" name="Aleksey Kladov" />
@@ -41,6 +43,7 @@
         <developer id="159713" name="Alexey Tsvetkov" />
         <developer id="128028" name="Alexey Ushakov" />
         <developer id="129452" name="Alexey Utkin" />
+        <developer id="985938" name="Anastasia Ivanova" />
         <developer id="976868" name="Andrew Kozlov" />
         <developer id="134578" name="Andrey Akinshin" />
         <developer id="58852" name="Andrey Breslav" />
@@ -57,6 +60,7 @@
         <developer id="73186" name="andrey zaytsev" />
         <developer id="980023" name="Anna Gromova" />
         <developer id="31077" name="Anna Kozlova" />
+        <developer id="986173" name="Anna Marchenko" />
         <developer id="976743" name="Anna Soloveva" />
         <developer id="978500" name="Anton Bannykh" />
         <developer id="980033" name="Anton Bragin" />
@@ -73,6 +77,7 @@
         <developer id="981924" name="Artem Mukhin" />
         <developer id="983684" name="Artemiy Sartakov" />
         <developer id="985418" name="Artemy Pestretsov" />
+        <developer id="986620" name="Artyom Semyonov" />
         <developer id="198" name="Bas Leijdekkers" />
         <developer id="984224" name="Daniel Below" />
         <developer id="115741" name="Daniil Ovchinnikov" />
@@ -106,6 +111,7 @@
         <developer id="137356" name="Egor Ushakov" />
         <developer id="977019" name="Egor Zhdan" />
         <developer id="73191" name="Ekaterina Tuzova" />
+        <developer id="986623" name="Ekaterina Zhuvarova" />
         <developer id="977503" name="Eldar Abusalimov" />
         <developer id="73183" name="Elena Shaverdova" />
         <developer id="128486" name="Elizabeth Shashkova" />
@@ -142,6 +148,7 @@
         <developer id="977836" name="karashevich" />
         <developer id="655139" name="Kate Ustyuzhanina" />
         <developer id="983863" name="Kirill Antonov" />
+        <developer id="986657" name="Kirill Glazyrin" />
         <developer id="978225" name="Kirill Kirichenko" />
         <developer id="73178" name="Kirill Likhodedov" />
         <developer id="1818" name="Kirill Maximov" />
@@ -151,12 +158,14 @@
         <developer id="981086" name="Kirill Timofeev" />
         <developer id="122532" name="Kirill Zorin" />
         <developer id="977786" name="Konstantin Aleev" />
+        <developer id="984655" name="Konstantin Annikov" />
         <developer id="63017" name="Konstantin Bulenkov" />
         <developer id="126886" name="Konstantin Kolosovsky" />
         <developer id="985875" name="Konstantin Nisht" />
         <developer id="985403" name="Konstantin Rybkin" />
         <developer id="103058" name="Konstantin Ulitin" />
         <developer id="985397" name="Kotlin IDE" />
+        <developer id="984198" name="Ksenia Shurukhina" />
         <developer id="984667" name="Lada Gagina" />
         <developer id="511255" name="Leonid Bushuev" />
         <developer id="985357" name="Leonid Mashinskiy" />
@@ -168,6 +177,7 @@
         <developer id="984629" name="Maksim Pelevin" />
         <developer id="417489" name="Marat Akhin" />
         <developer id="979281" name="Marat Khabibullin" />
+        <developer id="985505" name="Marcel Bruch" />
         <developer id="986421" name="Margarita Bobova" />
         <developer id="152617" name="Maria Baburina" />
         <developer id="73166" name="Max Medvedev" />
@@ -186,6 +196,7 @@
         <developer id="986311" name="Mikhail Khorkov" />
         <developer id="984447" name="Mikhail Mazurkevich" />
         <developer id="164019" name="Mikhail Mutcianko" />
+        <developer id="985188" name="Mikhail Putilin" />
         <developer id="73188" name="Mikhail Senkov" />
         <developer id="981088" name="Mikhail Sokolov" />
         <developer id="317770" name="Mikhail Zarechenskiy" />
@@ -242,6 +253,7 @@
         <developer id="980761" name="Sergey Rostov" />
         <developer id="77466" name="Sergey Shkredov" />
         <developer id="73193" name="Sergey Simonchik" />
+        <developer id="985513" name="Sergey Stoyanovsky" />
         <developer id="33386" name="Sergey Vasiliev" />
         <developer id="977641" name="Simon Ogorodnik" />
         <developer id="614936" name="Stanislav Dombrovsky" />
@@ -262,14 +274,17 @@
         <developer id="152054" name="Valentin Fondaratov" />
         <developer id="3" name="Valentin Kipiatkov" />
         <developer id="653561" name="Valentina Kiryushkina" />
+        <developer id="985294" name="Valery Teplyakov" />
         <developer id="976575" name="Vasily Romanikhin" />
         <developer id="104530" name="Vassiliy Kudryashov" />
         <developer id="78849" name="Victor Kropp" />
+        <developer id="982626" name="Victor Petukhov" />
         <developer id="980814" name="Viktor Shatrov" />
         <developer id="980220" name="Viktoria Shirunova" />
         <developer id="977012" name="Vitaliy Bibaev" />
         <developer id="981235" name="Vitaly Gordeev" />
         <developer id="984823" name="Vladimir Dolzhenko" />
+        <developer id="986608" name="Vladimir Ilmov" />
         <developer id="979474" name="Vladimir Koshelev" />
         <developer id="55194" name="Vladimir Krivosheev" />
         <developer id="983660" name="Vladimir Lagunov" />
@@ -292,6 +307,6 @@
         <developer id="108987" name="Zalim Bashorov" />
       </list>
     </option>
-    <option name="timestamp" value="1575440794826" />
+    <option name="timestamp" value="1581681393129" />
   </component>
 </application>
