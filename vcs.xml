@@ -14,6 +14,10 @@
           <option name="url" value="ssh://git@git.jetbrains.team/ij/intellij-deployment-scripts.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@git.jetbrains.team/ij/intellij-teamcity-config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git" />
